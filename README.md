@@ -1,8 +1,8 @@
-# Agenda
+# Clock
 
-Daily Agenda Heads-Up Display
+Clock Heads-Up Display
 
-by [Outright Mental<sup>&trade;</sup>](https://outrightmental.com/)
+[Outright Mental](https://outrightmental.com/)<sup>&trade;</sup>
 
 
 
